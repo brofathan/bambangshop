@@ -99,3 +99,9 @@ This is the place for you to write reflections:
 3. Postman membantu kita dalam mengecek API endpoint yang sudah kita buat. Hal ini mempermudah kita untuk melakukan testing pada endpoint
 
 #### Reflection Publisher-3
+
+1. Jenis variasi observer pattern pada tutorial ini adalah Push model
+
+2. Keuntungan memakai pull model adalah, observer jadi memiliki kontrol yang lebih besar dalam artian memiliki kontrol penuh dalam maintainability, selain itu lebih efisien juga. Kekurangannya adalah meningkatkan kompleksitas
+
+3. Jika menggunakan multi-threading dalam notifikasi, akan menghilangkan sifat realtime pada notifikasi tersebut.
