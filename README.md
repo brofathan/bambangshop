@@ -92,4 +92,10 @@ This is the place for you to write reflections:
 
 #### Reflection Publisher-2
 
+1. Service dan Repository dipisah karena memiliki tujuan yang berbeda. Walaupun bisa tidak diterapkan pemisahan, penerapan pemisahan ini dapat meningkatkan maintainability. Karena pemisahan ini memperhatikan prinsip SOLID seperti SRP.
+
+2. Jika kita hanya menggunakan model, maka program kita akan lebih kompleks. Karena semua hal dilakukan di satu layer yang sama
+
+3. Postman membantu kita dalam mengecek API endpoint yang sudah kita buat. Hal ini mempermudah kita untuk melakukan testing pada endpoint
+
 #### Reflection Publisher-3
